@@ -6,16 +6,18 @@ The deployment uses the new version 4 release, which can be found here: https://
 
 It is designed to be used to install base applications onto a computer after installing Windows for a university environment. 
 
-By default, it installs:
+By default, it is set to install:
 * Google Chrome Enterprise
 * Mozilla Firefox
-* Adobe Acrobat Reader (installer required)
+* Adobe Acrobat Reader
 * Microsoft Office
     * The sample configuration file assumes there is a device-based license for the Office applications
-* Dell Command Update (for Dell hardware)
-* Zoom Workplace (installer required)
-* Cisco Webex (installer required)
+* Dell Command Update
+* Zoom Workplace 
+* Cisco Webex 
 * VLC Media Player
+
+Installation files will need to be provided for each application.
 
 It also can remove bloat applications from Windows if you are installing from the base Windows installation media.
 
